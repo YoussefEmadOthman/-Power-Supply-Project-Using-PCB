@@ -1,2 +1,2 @@
-# -Power-Supply-Project-Using-PCB
+# Power-Supply Project Using PCB
 The Power Supply Project Using PCB is an electronics project designed to deliver a stable 12-volt output from a 220-volt input. This project involves designing and fabricating a printed circuit board (PCB) to create a reliable and efficient power supply unit. By integrating various electronic components such as transformers, rectifiers, voltage regulators, and capacitors, this power supply unit converts the standard 220-volt AC input into a consistent 12-volt DC output. Ideal for powering various electronic devices and projects, this power supply ensures stability and reduces noise and fluctuations in the output voltage.
